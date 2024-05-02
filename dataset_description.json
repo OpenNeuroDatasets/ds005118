@@ -1,5 +1,5 @@
 {
-    "Name": "The Weill Cornell Medicine Multi-echo (WCM-ME) Dataset",
+    "Name": "Weill Cornell Medicine Multi-echo (WCM-ME) Dataset",
     "BIDSVersion": "1.0.0",
     "License": "CC0",
     "Authors": [
