@@ -1,0 +1,5 @@
+This dataset contains extensive structural (T1w, T2w) and multi-band, multi-echo resting-state fMRI data from a single individual ("ME01", study author CJL). In addition to the raw data, there are several derivatives from a surface-based (fs_LR_32k space) processing pipeline, including individual-specific functional brain networks.   
+
+This data was originally collected as a part of a study exploring the potential benefits of multi-echo fMRI for precision functional mapping (PFM). It is being made publicly available now as an example dataset for implementing PFM routines related to Lynch et al., 2024 XXX (Link TBD). 
+
+The original manuscript (Lynch et al., 2020 Cell Reports; https://pubmed.ncbi.nlm.nih.gov/33357444/) should be cited when publishing work that uses this data.  
